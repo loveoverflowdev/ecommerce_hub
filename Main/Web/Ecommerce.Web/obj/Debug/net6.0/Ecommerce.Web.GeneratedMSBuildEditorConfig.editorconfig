@@ -7,39 +7,39 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = EcommerceHub
-build_property.RootNamespace = EcommerceHub
-build_property.ProjectDir = D:\c-sharp\dotnet-research\EcommerceHub\
+build_property.RootNamespace = Ecommerce.Web
+build_property.RootNamespace = Ecommerce.Web
+build_property.ProjectDir = D:\c-sharp\dotnet-research\EcommerceHub\Main\Web\Ecommerce.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\c-sharp\dotnet-research\EcommerceHub
+build_property.MSBuildProjectDirectory = D:\c-sharp\dotnet-research\EcommerceHub\Main\Web\Ecommerce.Web
 build_property._RazorSourceGeneratorDebug = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-b856sqs7if
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ynk4n8p044

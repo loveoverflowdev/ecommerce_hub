@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fR1xHUJ262OpZWvmt+RZdDI2vhFPeGPmipT6Bs3DwzAWSUr+s0Id9Zm8CSwo9kyU2J6OXp0yfHORvOpzlHngbw==",
+  "success": true,
+  "projectFilePath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Web\\Ecommerce.Web\\Ecommerce.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP TCC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
