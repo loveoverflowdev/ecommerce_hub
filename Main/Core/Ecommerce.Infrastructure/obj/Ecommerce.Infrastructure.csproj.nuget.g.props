@@ -12,4 +12,12 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\LAPTOP TCC\.nuget\packages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.net.sdk.functions\4.2.0\build\Microsoft.NET.Sdk.Functions.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk.functions\4.2.0\build\Microsoft.NET.Sdk.Functions.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator Condition=" '$(PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator)' == '' ">C:\Users\LAPTOP TCC\.nuget\packages\microsoft.azure.webjobs.script.extensionsmetadatagenerator\4.0.1</PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator>
+    <PkgMicrosoft_Azure_Functions_Analyzers Condition=" '$(PkgMicrosoft_Azure_Functions_Analyzers)' == '' ">C:\Users\LAPTOP TCC\.nuget\packages\microsoft.azure.functions.analyzers\1.0.0</PkgMicrosoft_Azure_Functions_Analyzers>
+    <PkgMicrosoft_NET_Sdk_Functions Condition=" '$(PkgMicrosoft_NET_Sdk_Functions)' == '' ">C:\Users\LAPTOP TCC\.nuget\packages\microsoft.net.sdk.functions\4.2.0</PkgMicrosoft_NET_Sdk_Functions>
+  </PropertyGroup>
 </Project>
