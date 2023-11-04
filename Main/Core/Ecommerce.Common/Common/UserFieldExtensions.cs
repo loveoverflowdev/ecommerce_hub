@@ -1,4 +1,4 @@
-﻿using Grand.SharedKernel.Extensions;
+﻿using Ecommerce.SharedKernel.Extensions;
 
 namespace Grand.Domain.Common
 {

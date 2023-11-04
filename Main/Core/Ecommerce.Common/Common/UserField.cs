@@ -1,4 +1,4 @@
-namespace Grand.Domain.Common
+namespace Ecommerce.Domain.Common
 {
     /// <summary>
     /// Represents a user field
