@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Grand.SharedKernel.Attributes;
+namespace Ecommerce.SharedKernel.Attributes;
 
 [AttributeUsage(AttributeTargets.Interface)]
 public class InterfaceConverterAttribute : JsonConverterAttribute

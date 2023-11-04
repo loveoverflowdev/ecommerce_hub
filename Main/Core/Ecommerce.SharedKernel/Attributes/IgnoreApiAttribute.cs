@@ -1,4 +1,4 @@
-﻿namespace Grand.SharedKernel.Attributes;
+﻿namespace Ecommerce.SharedKernel.Attributes;
 
 [AttributeUsage(AttributeTargets.Method | AttributeTargets.Class | AttributeTargets.Property)]
 public class IgnoreApiAttribute : Attribute

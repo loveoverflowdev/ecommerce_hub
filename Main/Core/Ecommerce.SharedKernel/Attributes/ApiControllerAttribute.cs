@@ -1,4 +1,4 @@
-﻿namespace Grand.SharedKernel.Attributes;
+﻿namespace Ecommerce.SharedKernel.Attributes;
 
 [AttributeUsage(AttributeTargets.Class)]
 public class ApiControllerAttribute : Attribute
