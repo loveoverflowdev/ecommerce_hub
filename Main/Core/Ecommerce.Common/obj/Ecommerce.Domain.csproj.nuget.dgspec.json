@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {}
+    "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
-        "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj",
+        "projectName": "Ecommerce.Domain",
+        "projectPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\LAPTOP TCC\\.nuget\\packages\\",
-        "outputPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Infrastructure\\obj\\",
+        "outputPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP TCC\\AppData\\Roaming\\NuGet\\NuGet.Config",

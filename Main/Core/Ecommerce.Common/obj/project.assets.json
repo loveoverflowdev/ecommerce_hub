@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Common.csproj",
-      "projectName": "Ecommerce.Common",
-      "projectPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Common.csproj",
+      "projectUniqueName": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj",
+      "projectName": "Ecommerce.Domain",
+      "projectPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\Ecommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\LAPTOP TCC\\.nuget\\packages\\",
       "outputPath": "D:\\c-sharp\\dotnet-research\\EcommerceHub\\Main\\Core\\Ecommerce.Common\\obj\\",
       "projectStyle": "PackageReference",
