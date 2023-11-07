@@ -1,7 +1,7 @@
 using Ecommerce.Domain.Data;
 using Ecommerce.SharedKernel.Attributes;
 
-namespace Grand.Domain
+namespace Ecommerce.Domain
 {
     public abstract class ParentEntity
     {

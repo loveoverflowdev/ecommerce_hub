@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Grand.Infrastructure
+namespace Ecommerce.Infrastructure
 {
     /// <summary>
     /// Represents startup

@@ -1,6 +1,6 @@
 using Ecommerce.Domain.Common;
 
-namespace Grand.Domain
+namespace Ecommerce.Domain
 {
     /// <summary>
     /// Base class for entities
