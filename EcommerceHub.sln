@@ -13,17 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{F7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{41A1286F-05E8-4F69-B1A9-43FF87051ACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api", "Main\Api\Ecommerce.Api\Ecommerce.Api.csproj", "{9F136ECB-7F82-4433-85DD-C50EF3EB2A41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api", "Main\Api\Ecommerce.Api\Ecommerce.Api.csproj", "{9F136ECB-7F82-4433-85DD-C50EF3EB2A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Business.Common", "Main\Business\Ecommerce.Business.Common\Ecommerce.Business.Common.csproj", "{436BCC62-C82D-4C61-AB94-36FF597B0821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Business.Common", "Main\Business\Ecommerce.Business.Common\Ecommerce.Business.Common.csproj", "{436BCC62-C82D-4C61-AB94-36FF597B0821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.SharedKernel", "Main\Core\Ecommerce.SharedKernel\Ecommerce.SharedKernel.csproj", "{9376DD8A-2BDE-4BFF-9B2C-70FFDEBAB92D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.SharedKernel", "Main\Core\Ecommerce.SharedKernel\Ecommerce.SharedKernel.csproj", "{9376DD8A-2BDE-4BFF-9B2C-70FFDEBAB92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Common", "Main\Core\Ecommerce.Common\Ecommerce.Common.csproj", "{4BE5F1B4-D44F-46C4-82C8-E962BE78BEB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Domain", "Main\Core\Ecommerce.Common\Ecommerce.Domain.csproj", "{4BE5F1B4-D44F-46C4-82C8-E962BE78BEB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infrastructure", "Main\Core\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj", "{C578E96C-474F-4115-8BC0-5279D0DC25A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Infrastructure", "Main\Core\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj", "{C578E96C-474F-4115-8BC0-5279D0DC25A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Web", "Main\Web\Ecommerce.Web\Ecommerce.Web.csproj", "{1EFC0B77-86A8-4DE3-AA72-C69D0F9F7F05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Web", "Main\Web\Ecommerce.Web\Ecommerce.Web.csproj", "{1EFC0B77-86A8-4DE3-AA72-C69D0F9F7F05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
