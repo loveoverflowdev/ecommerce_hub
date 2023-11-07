@@ -16,6 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\c-sharp\dotnet-research\EcommerceHub
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -39,6 +63,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web.Admin/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYi5BZG1pblxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-i6h7b6f843
 
 [D:/c-sharp/dotnet-research/EcommerceHub/Main/Web/Ecommerce.Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TWFpblxXZWJcRWNvbW1lcmNlLldlYlxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
