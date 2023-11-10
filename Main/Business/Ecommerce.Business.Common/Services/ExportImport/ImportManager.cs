@@ -1,0 +1,22 @@
+﻿using Ecommerce.Business.Core.Interfaces.ExportImport;
+
+namespace Ecommerce.Business.Common.Services.ExportImport
+{
+    public class ImportManager<T> : IImportManager<T> where T : class
+    {
+        private readonly IImportDataProvider _importDataProvider;
+        private readonly IImportDataObject<T> _importDataObject;
+
+        public ImportManager(IImportDataProvider importDataProvider, IImportDataObject<T> importDataObject)
+        {
+            _importDataProvider = importDataProvider;
+            _importDataObject = importDataObject;
+        }
+
+        public async Task Import(Stream stream)
+        {
+            var data = await _importDataProvider.Convert<T>(stream);
+            await _importDataObject.Execute(data);
+        }
+    }
+}

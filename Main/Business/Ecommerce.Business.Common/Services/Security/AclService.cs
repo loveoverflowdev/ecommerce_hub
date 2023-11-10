@@ -1,0 +1,75 @@
+using Ecommerce.Business.Core.Interfaces.Common.Security;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Permissions;
+using Ecommerce.Domain.Stores;
+using Ecommerce.SharedKernel.Extensions;
+
+namespace Ecommerce.Business.Common.Services.Security
+{
+    /// <summary>
+    /// ACL service
+    /// </summary>
+    public class AclService : IAclService
+    {
+        #region Ctor
+
+        /// <summary>
+        /// Ctor
+        /// </summary>
+        public AclService()
+        {
+
+        }
+
+        #endregion
+
+        #region Methods
+
+
+        /// <summary>
+        /// Authorize ACL permission
+        /// </summary>
+        /// <typeparam name="T">Type</typeparam>
+        /// <param name="entity">Entity</param>
+        /// <param name="customer">Customer</param>
+        /// <returns>true - authorized; otherwise, false</returns>
+        public virtual bool Authorize<T>(T entity, Customer customer) where T : BaseEntity, IGroupLinkEntity
+        {
+            if (entity == null)
+                return false;
+
+            if (customer == null)
+                return false;
+
+            if (!entity.LimitedToGroups)
+                return true;
+
+            return CommonHelper.IgnoreAcl || customer.Groups.Any(role1 => entity.CustomerGroups.Any(role2Id => role1 == role2Id));
+        }
+
+        /// <summary>
+        /// Authorize whether entity could be accessed in a store (mapped to this store)
+        /// </summary>
+        /// <typeparam name="T">Type</typeparam>
+        /// <param name="entity">Entity</param>
+        /// <param name="storeId">Store identifier</param>
+        /// <returns>true - authorized; otherwise, false</returns>
+        public virtual bool Authorize<T>(T entity, string storeId) where T : BaseEntity, IStoreLinkEntity
+        {
+            if (entity == null)
+                return false;
+
+            if (string.IsNullOrEmpty(storeId))
+                //return true if no store specified/found
+                return true;
+
+            if (CommonHelper.IgnoreStoreLimitations)
+                return true;
+
+            return !entity.LimitedToStores || entity.Stores.Any(storeIdWithAccess => storeId == storeIdWithAccess);
+        }
+
+        #endregion
+    }
+}
