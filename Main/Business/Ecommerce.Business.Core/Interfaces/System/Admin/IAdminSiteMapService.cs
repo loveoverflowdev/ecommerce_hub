@@ -1,6 +1,6 @@
-﻿using Grand.Domain.Admin;
+﻿using Ecommerce.Domain.Admin;
 
-namespace Grand.Business.Core.Interfaces.System.Admin
+namespace Ecommerce.Business.Core.Interfaces.System.Admin
 {
     public interface IAdminSiteMapService
     {
