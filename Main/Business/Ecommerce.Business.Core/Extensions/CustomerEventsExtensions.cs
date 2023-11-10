@@ -1,8 +1,8 @@
-﻿using Grand.Business.Core.Events.Customers;
-using Grand.Business.Core.Utilities.Customers;
+﻿using Ecommerce.Business.Core.Events.Customers;
+using Ecommerce.Business.Core.Utilities.Customers;
 using MediatR;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class CustomerEventsExtensions
     {

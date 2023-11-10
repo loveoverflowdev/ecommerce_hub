@@ -1,8 +1,8 @@
-﻿using Grand.Business.Core.Interfaces.Common.Directory;
-using Grand.Domain;
-using Grand.Domain.History;
+﻿using Ecommerce.Business.Core.Interfaces.Common.Directory;
+using Ecommerce.Domain;
+using Ecommerce.Domain.History;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class HistoryExtensions
     {

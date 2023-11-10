@@ -1,6 +1,6 @@
-﻿using Grand.Domain.Permissions;
+﻿using Ecommerce.Domain.Permissions;
 
-namespace Grand.Business.Core.Utilities.Common.Security
+namespace Ecommerce.Business.Core.Utilities.Common.Security
 {
     public static partial class StandardPermission
     {

@@ -1,6 +1,6 @@
-using Grand.Domain.Configuration;
+using Ecommerce.Domain.Configuration;
 
-namespace Grand.Business.Core.Interfaces.Common.Configuration
+namespace Ecommerce.Business.Core.Interfaces.Common.Configuration
 {
     /// <summary>
     /// Setting service interface

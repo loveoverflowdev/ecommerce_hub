@@ -1,7 +1,7 @@
-using Grand.Domain;
-using Grand.Domain.Seo;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Seo;
 
-namespace Grand.Business.Core.Interfaces.Common.Seo
+namespace Ecommerce.Business.Core.Interfaces.Common.Seo
 {
     /// <summary>
     /// Provides information about URL Entity

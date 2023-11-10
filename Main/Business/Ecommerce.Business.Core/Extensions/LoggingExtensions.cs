@@ -1,8 +1,8 @@
-using Grand.Domain.Customers;
-using Grand.Domain.Logging;
-using Grand.Business.Core.Interfaces.Common.Logging;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Logging;
+using Ecommerce.Business.Core.Interfaces.Common.Logging;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class LoggingExtensions
     {

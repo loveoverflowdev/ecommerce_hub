@@ -1,7 +1,7 @@
-﻿using Grand.Domain;
-using Grand.Domain.Customers;
+﻿using Ecommerce.Domain;
+using Ecommerce.Domain.Customers;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     public interface IGroupService
     {

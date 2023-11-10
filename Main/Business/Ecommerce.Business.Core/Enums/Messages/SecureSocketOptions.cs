@@ -1,4 +1,4 @@
-﻿namespace Grand.Business.Core.Enums.Messages
+﻿namespace Ecommerce.Business.Core.Enums.Messages
 {
     public enum SecureSocketOptions
     {

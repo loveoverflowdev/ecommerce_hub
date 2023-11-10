@@ -1,7 +1,7 @@
-using Grand.Domain.Common;
-using Grand.Domain.Localization;
+using Ecommerce.Domain.Common;
+using Ecommerce.Domain.Localization;
 
-namespace Grand.Business.Core.Interfaces.Common.Addresses
+namespace Ecommerce.Business.Core.Interfaces.Common.Addresses
 {
     /// <summary>
     /// Address attribute parser interface

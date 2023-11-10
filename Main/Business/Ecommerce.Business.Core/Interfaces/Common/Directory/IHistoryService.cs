@@ -1,7 +1,7 @@
-using Grand.Domain;
-using Grand.Domain.History;
+using Ecommerce.Domain;
+using Ecommerce.Domain.History;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     /// <summary>
     /// History service interface

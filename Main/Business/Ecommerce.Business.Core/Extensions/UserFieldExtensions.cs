@@ -1,7 +1,7 @@
-using Grand.Business.Core.Interfaces.Common.Directory;
-using Grand.Domain;
+using Ecommerce.Business.Core.Interfaces.Common.Directory;
+using Ecommerce.Domain;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class UserFieldExtensions
     {

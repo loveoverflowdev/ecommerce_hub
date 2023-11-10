@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     /// <summary>
     /// Represents a datetime service

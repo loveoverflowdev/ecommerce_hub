@@ -1,9 +1,9 @@
-using Grand.Domain;
-using Grand.Domain.Customers;
-using Grand.Domain.Permissions;
-using Grand.Domain.Stores;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Permissions;
+using Ecommerce.Domain.Stores;
 
-namespace Grand.Business.Core.Interfaces.Common.Security
+namespace Ecommerce.Business.Core.Interfaces.Common.Security
 {
     /// <summary>
     /// ACL service interface

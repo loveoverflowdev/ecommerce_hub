@@ -1,6 +1,6 @@
-using Grand.Domain.Directory;
+using Ecommerce.Domain.Directory;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class RoundingHelper
     {

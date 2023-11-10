@@ -1,7 +1,7 @@
-using Grand.Business.Core.Interfaces.Checkout.Shipping;
-using Grand.Domain.Shipping;
+using Ecommerce.Business.Core.Interfaces.Checkout.Shipping;
+using Ecommerce.Domain.Shipping;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class ShippingExtensions
     {

@@ -1,6 +1,6 @@
-﻿using Grand.Domain.Permissions;
+﻿using Ecommerce.Domain.Permissions;
 
-namespace Grand.Business.Core.Interfaces.Common.Security
+namespace Ecommerce.Business.Core.Interfaces.Common.Security
 {
     /// <summary>
     /// Permission provider

@@ -1,6 +1,6 @@
-using Grand.Domain.Stores;
+using Ecommerce.Domain.Stores;
 
-namespace Grand.Business.Core.Interfaces.Common.Stores
+namespace Ecommerce.Business.Core.Interfaces.Common.Stores
 {
     /// <summary>
     /// Store service interface

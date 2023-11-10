@@ -1,9 +1,9 @@
-﻿using Grand.Business.Core.Events.Checkout.Orders;
-using Grand.Business.Core.Utilities.Checkout;
-using Grand.Domain.Payments;
+﻿using Ecommerce.Business.Core.Events.Checkout.Orders;
+using Ecommerce.Business.Core.Utilities.Checkout;
+using Ecommerce.Domain.Payments;
 using MediatR;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class OrderEventPublisherExtensions
     {

@@ -1,12 +1,12 @@
-﻿using Grand.Business.Core.Interfaces.Common.Localization;
-using Grand.Business.Core.Interfaces.Common.Seo;
-using Grand.Domain;
-using Grand.Domain.Catalog;
-using Grand.Domain.Localization;
-using Grand.Domain.Seo;
-using Grand.SharedKernel.Extensions;
+﻿using Ecommerce.Business.Core.Interfaces.Common.Localization;
+using Ecommerce.Business.Core.Interfaces.Common.Seo;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Catalog;
+using Ecommerce.Domain.Localization;
+using Ecommerce.Domain.Seo;
+using Ecommerce.SharedKernel.Extensions;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class SeoExtensions
     {

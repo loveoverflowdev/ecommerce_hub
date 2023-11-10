@@ -1,7 +1,7 @@
-﻿using Grand.Business.Core.Interfaces.Common.Providers;
-using Grand.Domain.Directory;
+﻿using Ecommerce.Business.Core.Interfaces.Common.Providers;
+using Ecommerce.Domain.Directory;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     public interface IExchangeRateService
     {

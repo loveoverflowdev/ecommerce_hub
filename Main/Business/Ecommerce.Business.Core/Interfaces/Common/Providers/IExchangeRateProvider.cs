@@ -1,7 +1,7 @@
-using Grand.Domain.Directory;
-using Grand.Infrastructure.Plugins;
+using Ecommerce.Domain.Directory;
+using Ecommerce.Infrastructure.Plugins;
 
-namespace Grand.Business.Core.Interfaces.Common.Providers
+namespace Ecommerce.Business.Core.Interfaces.Common.Providers
 {
     /// <summary>
     /// Exchange rate provider interface

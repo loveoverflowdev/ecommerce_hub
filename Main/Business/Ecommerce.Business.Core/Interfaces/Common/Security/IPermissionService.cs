@@ -1,7 +1,7 @@
-using Grand.Domain.Customers;
-using Grand.Domain.Permissions;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Permissions;
 
-namespace Grand.Business.Core.Interfaces.Common.Security
+namespace Ecommerce.Business.Core.Interfaces.Common.Security
 {
     /// <summary>
     /// Permission service interface

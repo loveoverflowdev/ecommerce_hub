@@ -1,6 +1,6 @@
-﻿using Grand.Domain.Customers;
+﻿using Ecommerce.Domain.Customers;
 
-namespace Grand.Business.Core.Interfaces.Common.Security
+namespace Ecommerce.Business.Core.Interfaces.Common.Security
 {
     public interface IEncryptionService 
     {

@@ -1,10 +1,10 @@
 ﻿using DotLiquid;
-using Grand.Business.Core.Events.Messages;
-using Grand.Domain;
-using Grand.Domain.Messages;
+using Ecommerce.Business.Core.Events.Messages;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Messages;
 using MediatR;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class MessagesEventPublisherExtensions
     {

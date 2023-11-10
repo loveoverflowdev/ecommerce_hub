@@ -1,6 +1,6 @@
-using Grand.Domain.Common;
+using Ecommerce.Domain.Common;
 
-namespace Grand.Business.Core.Interfaces.Common.Addresses
+namespace Ecommerce.Business.Core.Interfaces.Common.Addresses
 {
     /// <summary>
     /// Address attribute service

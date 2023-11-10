@@ -1,10 +1,10 @@
-﻿using Grand.Business.Core.Interfaces.Customers;
-using Grand.Domain.Affiliates;
-using Grand.Domain.Seo;
-using Grand.Infrastructure.Extensions;
-using Grand.SharedKernel.Extensions;
+﻿using Ecommerce.Business.Core.Interfaces.Customers;
+using Ecommerce.Domain.Affiliates;
+using Ecommerce.Domain.Seo;
+using Ecommerce.Infrastructure.Extensions;
+using Ecommerce.SharedKernel.Extensions;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class AffiliateExtensions
     {

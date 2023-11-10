@@ -1,14 +1,14 @@
-using Grand.Business.Core.Interfaces.Common.Localization;
-using Grand.Domain;
-using Grand.Domain.Localization;
-using Grand.Domain.Permissions;
-using Grand.Infrastructure;
-using Grand.Infrastructure.Plugins;
-using Grand.SharedKernel.Extensions;
+using Ecommerce.Business.Core.Interfaces.Common.Localization;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Localization;
+using Ecommerce.Domain.Permissions;
+using Ecommerce.Infrastructure;
+using Ecommerce.Infrastructure.Plugins;
+using Ecommerce.SharedKernel.Extensions;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class TranslateExtensions
     {

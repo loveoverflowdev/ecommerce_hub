@@ -1,4 +1,4 @@
-﻿namespace Grand.Business.Core.Interfaces.Common.Pdf
+﻿namespace Ecommerce.Business.Core.Interfaces.Common.Pdf
 {
     /// <summary>
     /// Allow render razor view as string

@@ -1,6 +1,6 @@
-using Grand.Domain.Localization;
+using Ecommerce.Domain.Localization;
 
-namespace Grand.Business.Core.Interfaces.Common.Localization
+namespace Ecommerce.Business.Core.Interfaces.Common.Localization
 {
     /// <summary>
     /// Translation manager interface

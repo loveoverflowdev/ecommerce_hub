@@ -1,11 +1,11 @@
-﻿using Grand.Business.Core.Events.Checkout.ShoppingCart;
-using Grand.Domain.Catalog;
-using Grand.Domain.Common;
-using Grand.Domain.Customers;
-using Grand.Domain.Orders;
+﻿using Ecommerce.Business.Core.Events.Checkout.ShoppingCart;
+using Ecommerce.Domain.Catalog;
+using Ecommerce.Domain.Common;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Orders;
 using MediatR;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class ShoppingCartEventPublisherExtensions
     {

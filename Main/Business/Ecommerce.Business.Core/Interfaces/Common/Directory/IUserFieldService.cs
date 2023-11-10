@@ -1,6 +1,6 @@
-using Grand.Domain;
+using Ecommerce.Domain;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     /// <summary>
     /// User fields service interface

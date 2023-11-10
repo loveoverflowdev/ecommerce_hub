@@ -1,8 +1,8 @@
-﻿using Grand.Business.Core.Events.Checkout.Shipping;
-using Grand.Domain.Shipping;
+﻿using Ecommerce.Business.Core.Events.Checkout.Shipping;
+using Ecommerce.Domain.Shipping;
 using MediatR;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     public static class ShippingEventPublisherExtensions
     {

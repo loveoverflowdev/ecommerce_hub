@@ -1,7 +1,7 @@
-using Grand.Domain.Orders;
-using Grand.Domain.Shipping;
+using Ecommerce.Domain.Orders;
+using Ecommerce.Domain.Shipping;
 
-namespace Grand.Business.Core.Interfaces.Common.Pdf
+namespace Ecommerce.Business.Core.Interfaces.Common.Pdf
 {
     /// <summary>
     /// Customer service interface

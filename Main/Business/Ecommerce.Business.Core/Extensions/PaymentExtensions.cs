@@ -1,9 +1,9 @@
-using Grand.Business.Core.Interfaces.Checkout.Orders;
-using Grand.Business.Core.Interfaces.Checkout.Payments;
-using Grand.Domain.Orders;
-using Grand.Domain.Payments;
+using Ecommerce.Business.Core.Interfaces.Checkout.Orders;
+using Ecommerce.Business.Core.Interfaces.Checkout.Payments;
+using Ecommerce.Domain.Orders;
+using Ecommerce.Domain.Payments;
 
-namespace Grand.Business.Core.Extensions
+namespace Ecommerce.Business.Core.Extensions
 {
     /// <summary>
     /// Payment extensions

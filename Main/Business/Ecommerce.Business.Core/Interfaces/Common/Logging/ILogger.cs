@@ -1,8 +1,8 @@
-using Grand.Domain;
-using Grand.Domain.Customers;
-using Grand.Domain.Logging;
+using Ecommerce.Domain;
+using Ecommerce.Domain.Customers;
+using Ecommerce.Domain.Logging;
 
-namespace Grand.Business.Core.Interfaces.Common.Logging
+namespace Ecommerce.Business.Core.Interfaces.Common.Logging
 {
     /// <summary>
     /// Logger interface

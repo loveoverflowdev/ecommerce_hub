@@ -1,4 +1,4 @@
-﻿namespace Grand.Business.Core.Utilities.Common.Security
+﻿namespace Ecommerce.Business.Core.Utilities.Common.Security
 {
     public static class PermissionActionName
     {

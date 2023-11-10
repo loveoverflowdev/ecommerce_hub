@@ -1,6 +1,6 @@
-using Grand.Domain.Directory;
+using Ecommerce.Domain.Directory;
 
-namespace Grand.Business.Core.Interfaces.Common.Directory
+namespace Ecommerce.Business.Core.Interfaces.Common.Directory
 {
     /// <summary>
     /// Currency service

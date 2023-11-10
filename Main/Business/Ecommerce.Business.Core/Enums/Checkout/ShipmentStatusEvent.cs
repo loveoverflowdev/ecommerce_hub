@@ -1,4 +1,4 @@
-namespace Grand.Business.Core.Enums.Checkout
+namespace Ecommerce.Business.Core.Enums.Checkout
 {
     /// <summary>
     /// Shipment status event
